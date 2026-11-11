@@ -53,11 +53,7 @@ Unlike text-generation transformers, which predict the next token, this model re
 
 | Metric | Value |
 |---|---|
-| ✅ Validation accuracy | **XX.XX%** |
-| 🎯 Test accuracy | **XX.XX%** (project target: above 75%) |
-
-> 📝 Replace `XX.XX%` with the final numbers from your notebook, and update the badge at the top of this file.
-
+| ✅ Validation accuracy | **78.56%** |
 ---
 
 ## 📊 Dataset
