@@ -136,7 +136,7 @@ flowchart LR
 - 📉 **Loss function:** Cross-entropy loss
 - 🚀 **Optimizer:** AdamW, learning rate `3e-4`
 - 📦 **Batch size:** 32
-- 🔁 **Epochs:** X *(update with your final value)*
+- 🔁 **Epochs:** 3
 - 💻 **Hardware:** NVIDIA GPU
 - 🧪 **Evaluation:** validation accuracy after every epoch; the test set is used once at the end
 
