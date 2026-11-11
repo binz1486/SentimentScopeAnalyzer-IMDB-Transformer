@@ -8,7 +8,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?logo=huggingface&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
-![Test Accuracy](https://img.shields.io/badge/Test%20Accuracy-XX.XX%25-brightgreen)
 
 *Is this movie review 👍 positive or 👎 negative? Let a transformer decide.*
 
