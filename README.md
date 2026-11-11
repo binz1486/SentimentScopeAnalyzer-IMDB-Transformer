@@ -261,8 +261,8 @@ print(predict(["I loved every moment of this movie!",
 
 **Binyameen**
 
-- 🐙 GitHub: [@your-username](https://github.com/your-username)
-- 💼 LinkedIn: [your-profile](https://www.linkedin.com/in/your-profile)
+- 🐙 GitHub: [@binz1486](https://github.com/binz1486)
+- 💼 LinkedIn: [Binz1486](https://www.linkedin.com/in/binz1486)
 
 ---
 
